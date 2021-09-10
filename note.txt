@@ -1,0 +1,7 @@
+để lấy được giá trị từ html thì thuộc tính name phải giống nhau ở cả 3 vị trí: python (request.form) - html (name) - js (ajax)
+
+GCP: Project ID: apppipingdata
+run config web: gcloud app deploy /home/info/APPPipeDataOnline/app.yaml
+link to: https://apppipingonline.et.r.appspot.com/
+pass google cloud: Dstkl@1986
+
