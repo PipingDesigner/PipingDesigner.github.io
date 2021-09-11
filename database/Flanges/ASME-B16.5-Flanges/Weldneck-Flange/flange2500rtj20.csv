@@ -1,0 +1,4 @@
+nb,od,thickness,hub-x,hub-a,wn thk,rtj rf dia,rtj rf height,ring no,dist betwn flgs,pcd,no of bolts,bolt size unc,rtj sb len,hole size,iso sb size,wn kg,rtj pitch dia,rtj depth,rtj width,bolts wt rtj,weld flat,full hei,neck degree,rtj degree,sch
+8,550,127.0,305,219.1,318,340.0,14.27,51,5,438.2,12 Holes,2'',395,2+1/8'' Dia,M52,208.92 kg,279.4,14.27,23.01,108.27 kg,1.6,325,37.5*,23*,206.4
+10,675,165.1,375,273.0,419,425.0,17.48,55,6,539.8,12 Holes,2+1/2'',510,2+5/8'' Dia,M64,403.03 kg,342.9,17.48,30.18,200.28 kg,1.6,426,37.5*,23*,260.3
+12,760,184.2,441,323.8,464,495.0,17.48,60,8,619.1,12 Holes,2+3/4'',560,2+7/8'' Dia,M72,564.75 kg,406.4,17.48,33.32,276.71 kg,1.6,471,37.5*,23*,311.1

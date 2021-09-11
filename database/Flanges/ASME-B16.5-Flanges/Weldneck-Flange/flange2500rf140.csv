@@ -1,0 +1,4 @@
+nb,od,thickness,hub-x,hub-a,wn thk,rf dia,rf height,pcd,no of bolts,bolt size unc,rf sb length,hole size,iso sb size,wn kg,bolts wt rf,weld flat,full hei,neck degree,sch
+8,550,127.0,305,219.1,318,269.9,7,438.2,12 Holes,2'',380,2+1/8'' Dia,M52,230.68 kg,105.5 kg,1.6,325,37.5*,177.86
+10,675,165.1,375,273.0,419,323.8,7,539.8,12 Holes,2+1/2'',490,2+5/8'' Dia,M64,451.1 kg,194.74 kg,1.6,426,37.5*,222.2
+12,760,184.2,441,323.8,464,381.0,7,619.1,12 Holes,2+3/4'',540,2+7/8'' Dia,M72,639.13 kg,269.63 kg,1.6,471,37.5*,266.64
