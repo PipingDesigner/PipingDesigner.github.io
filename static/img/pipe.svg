@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="175 0 1400 1200" preserveAspectRatio="xMidYMin" class="item-chart">
+  <style>
+    svg { background-color: white; }
+
+    text.heavy {
+      font: 28px Arial, Verdana, sans-serif;
+    }
+  </style>
+
+  <defs>
+    <pattern id="diagonalHatch" patternUnits="userSpaceOnUse" width="4" height="8" patternTransform="rotate(-45 2 2)">
+      <path d="M -1,2 l 6,0" stroke="black" stroke-width=".9"/>
+    </pattern>
+  </defs>
+
+  <!-- Text will be injected -->
+  <text x="807" y="222" alignment-baseline="middle" text-anchor="middle" tspan="" font-weight="bold" fill="black" class="heavy text-inject">N/A</text>
+  <text x="445" y="280" alignment-baseline="middle" text-anchor="middle" tspan="" font-weight="bold" fill="black" class="heavy text-inject">N/A</text>
+  <text x="1267" y="620" alignment-baseline="middle" text-anchor="middle" tspan="" font-weight="bold" fill="black" class="heavy text-inject">N/A</text>
+  <text x="807" y="800" alignment-baseline="middle" text-anchor="middle" tspan="" font-weight="bold" fill="black" class="heavy text-inject">N/A</text>
+  <text x="330" y="100" alignment-baseline="middle" text-anchor="left" tspan="" font-weight="bold" fill="black" class="heavy text-inject">N/A</text>
+  <text x="500" y="140" alignment-baseline="middle" text-anchor="left" tspan="" font-weight="bold" fill="black" class="heavy text-inject">N/A</text>
+
+  <!-- Text no inject -->
+  <text x="210" y="100" alignment-baseline="middle" text-anchor="left" tspan="" font-weight=" bold" fill="black" class="heavy">Weight:                     kg/m</text>
+  <text x="210" y="140" alignment-baseline="middle" text-anchor="left" tspan="" font-weight=" bold" fill="black" class="heavy">Weight full with water:                     kg/m</text>
+  <text x="1500" y="1150" text-anchor="end" font-weight=" bold" fill="black" class="heavy">ASME B36.10/19M-2018 </text>
+
+  <circle cx="807" cy="536" r="195"  stroke="black" fill="url(#diagonalHatch)" stroke-width="2.5"/>
+  <circle cx="807" cy="536" r="172"  stroke="black" fill="white" stroke-width="2.5"/>
+
+  <line stroke-dasharray="15, 10, 5, 10" x1="578" y1="536" x2="1043" y2="536" style=" stroke: black; stroke-width: 0.5;"></line>
+  <line stroke-dasharray="15, 10, 5, 10" x1="807" y1="308" x2="807" y2="760" style=" stroke: black; stroke-width: 0.5;"></line>
+
+  <line x1="1054" y1="536" x2="1111" y2="536" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="853" y1="731" x2="1111" y2="731" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="1096" y1="708" x2="1096" y2="559" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="611" y1="489" x2="611" y2="357" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="1002" y1="487" x2="1002" y2="227" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="635" y1="242" x2="979" y2="242" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="635" y1="835" x2="635" y2="576" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="979" y1="835" x2="979" y2="573" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="658" y1="820" x2="955" y2="820" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="719" y1="448" x2="702" y2="431" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="652" y1="381" x2="573" y2="302" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="647" y1="385" x2="656" y2="376" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="647" y1="385" x2="656" y2="376" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="669" y1="398" x2="656" y2="376" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="669" y1="398" x2="647" y2="385" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="685" y1="414" x2="707" y2="426" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="685" y1="414" x2="697" y2="436" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="707" y1="426" x2="697" y2="436" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="707" y1="426" x2="697" y2="436" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="317" y1="302" x2="573" y2="302" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="611" y1="242" x2="635" y2="236" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="611" y1="242" x2="635" y2="249" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="635" y1="249" x2="635" y2="236" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="635" y1="249" x2="635" y2="236" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="635" y1="820" x2="658" y2="813" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="635" y1="820" x2="658" y2="826" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="658" y1="826" x2="658" y2="813" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="658" y1="826" x2="658" y2="813" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="1002" y1="242" x2="979" y2="249" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="1002" y1="242" x2="979" y2="236" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="979" y1="249" x2="979" y2="236" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="979" y1="820" x2="955" y2="826" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="979" y1="820" x2="955" y2="813" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="955" y1="826" x2="955" y2="813" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="1096" y1="731" x2="1102" y2="708" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="1089" y1="708" x2="1102" y2="708" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="1096" y1="731" x2="1089" y2="708" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="1096" y1="536" x2="1089" y2="559" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="1102" y1="559" x2="1089" y2="559" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="1096" y1="536" x2="1102" y2="559" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="1096" y1="640" x2="1396" y2="640" style=" stroke: black;stroke-width: .9;"></line>
+  <line x1="611" y1="324" x2="611" y2="227" style=" stroke: black;stroke-width: .9;"></line>
+</svg>

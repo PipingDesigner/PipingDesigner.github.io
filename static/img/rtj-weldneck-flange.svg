@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="100%" width="100%" viewBox="175 0 1400 1200" preserveAspectRatio="xMidYMin" class="item-chart">
+  <style>
+    svg { background-color: white; }
+
+    text.heavy {
+      font: 28px Arial, Verdana, sans-serif;
+    }
+  </style>
+
+  <defs>
+    <pattern id="diagonalHatch" patternUnits="userSpaceOnUse" width="4" height="8" patternTransform="rotate(-45 2 2)">
+      <path d="M -1,2 l 6,0" stroke="black" stroke-width=".9"/>
+    </pattern>
+  </defs>
+
+  <defs>
+    <pattern id="diagonalHatch1" patternUnits="userSpaceOnUse" width="4" height="8" patternTransform="rotate(45 2 2)">
+      <path d="M -1,2 l 6,0" stroke="black" stroke-width=".9"/>
+    </pattern>
+  </defs>
+
+  <!-- Text will inject -->
+  <text x="858" y="917" alignment-baseline="middle" text-anchor="middle" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy text-inject"> 320</text>
+  <text x="1252" y="666" alignment-baseline="middle" text-anchor="middle" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy text-inject"> 35</text>
+  <text x="857" y="195" alignment-baseline="middle" text-anchor="middle" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy text-inject"> 206</text>
+  <text x="858" y="249" alignment-baseline="middle" text-anchor="middle" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy text-inject"> 168.3</text>
+  <text x="1335" y="559" alignment-baseline="middle" text-anchor="middle" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy text-inject"> 97</text>
+  <text x="858" y="813" alignment-baseline="middle" text-anchor="middle" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy text-inject"> 241</text>
+  <text x="374" y="741" alignment-baseline="middle" text-anchor="middle" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy text-inject"> 7.92</text>
+  <text x="400" y="1070" alignment-baseline="middle" text-anchor="left" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy text-inject">45</text>
+  <text x="520" y="1110" alignment-baseline="middle" text-anchor="left" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy text-inject">6</text>
+  <text x="858" y="866" alignment-baseline="middle" text-anchor="middle" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy text-inject"> 269.9</text>
+  <text x="524" y="477" alignment-baseline="middle" text-anchor="middle" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy text-inject"> 12 Holes</text>
+  <text x="400" y="1150" alignment-baseline="middle" text-anchor="left" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy text-inject">3/4"</text>
+  <text x="720" y="1150" alignment-baseline="middle" text-anchor="left" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy text-inject">140</text>
+  <text x="529" y="518" alignment-baseline="middle" text-anchor="middle" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy text-inject"> 7/8" Dia</text>
+  <text x="610" y="1150" alignment-baseline="middle" text-anchor="left" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy text-inject">M20</text>
+  <text x="415" y="100" alignment-baseline="middle" text-anchor="left" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy text-inject">20.13 kg</text>
+  <text x="857" y="757" alignment-baseline="middle" text-anchor="middle" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy text-inject"> 211.12</text>
+  <text x="1479" y="314" alignment-baseline="middle" text-anchor="middle" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy text-inject"> 7.92</text>
+  <text x="1319" y="363" alignment-baseline="middle" text-anchor="middle" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy text-inject"> 11.91</text>
+  <text x="450" y="140" alignment-baseline="middle" text-anchor="left" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy text-inject">5.36 kg</text>
+  <text x="650" y="304" alignment-baseline="middle" text-anchor="middle" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy text-inject"> 1.6</text>
+  <text x="1415" y="633" alignment-baseline="middle" text-anchor="middle" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy text-inject"> 104.92</text>
+  <text x="1129" y="522" alignment-baseline="middle" text-anchor="middle" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy text-inject"> 37.5°</text>
+  <text x="1198" y="311" alignment-baseline="middle" text-anchor="middle" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy text-inject"> 23°</text>
+  <text x="856" y="304" alignment-baseline="middle" text-anchor="middle" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy text-inject"> 154.08</text>
+
+  <!-- Text no inject -->
+  <text x="1500" y="1150" text-anchor="end" font-weight=" bold" fill="rgb(0,0,0)" class="heavy">ASME B16.5 2019</text>
+  <text x="210" y="1150" alignment-baseline="middle" text-anchor="left" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy">StudBolt Size:                   UNC (or               ) x               Long</text>
+  <text x="210" y="100" alignment-baseline="middle" text-anchor="left" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy">Flange Weight: </text>
+  <text x="210" y="140" alignment-baseline="middle" text-anchor="left" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy">S/Bolts and Nuts: </text>
+  <text x="210" y="1070" alignment-baseline="middle" text-anchor="left" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy">Ring Number: </text>
+  <text x="210" y="1110" alignment-baseline="middle" text-anchor="left" tspan="" font-weight=" bold" fill="rgb(0,0,0)" class="heavy">Gap Between Flanges: </text>
+
+
+  <polyline points="763,485 953,485 969,498 969,525 1010,639 1122,639 1122,697 1020,697 1020,712 1002,712 997,700 989,700 984,712 732,712 727,700 719,700 714,712 695,712 695,697 593,697 593,639 705,639 746,525 746,498 763,485" fill="url(#diagonalHatch)" stroke="black" stroke-width="2.5"/>
+  <polyline points="1233,260 1293,260 1305,231 1324,231 1336,260 1381,260 1392,237 1404,227 1412,194 1364,177 1298,190 1256,183 1234,187 1236,213 1232,230 1233,260" fill="url(#diagonalHatch)" stroke="black" stroke-width="2.5"/>
+
+  <path d="M746,497 Q738,483 746,470" stroke="black" fill="none" stroke-width="0.5"/>
+  <path d="M969,469 Q977,483 969,497" stroke="black" fill="none" stroke-width="0.5"/>
+  <path d="M746,469 L763,482 L953,482 L969,469 L969,393 Q915,426 858,393 Q802,360 746,393 L746,469" stroke="black" fill="url(#diagonalHatch1)" stroke-width="0.5"/>
+  <rect x="767" y="350" width="181" height="227" fill="white" stroke="none" stroke-width="0.5"/>
+  <polyline points="948,403 948,482 767,482 767,383" fill="none" stroke="black" stroke-width="0.5"/>
+  <path d="M969,393 Q915,426 858,393 Q802,360 746,393" stroke="black" fill="none" stroke-width="0.5"/>
+
+  <rect x="767" y="485" width="181" height="227" fill="white" stroke="black" stroke-width="2.5"/>
+  <rect x="614" y="639" width="69" height="58" fill="white" stroke="black" stroke-width="2.5"/>
+  <rect x="1032" y="639" width="69" height="58" fill="white" stroke="black" stroke-width="2.5"/>
+
+  <line x1="858" y1="393" x2="858" y2="712" style=" stroke: rgb(0, 0,0 );stroke-width: .5;"/>
+  <line x1="1067" y1="624" x2="1067" y2="706" style=" stroke: rgb(0, 0,0 );stroke-width: .5;"/>
+  <line x1="648" y1="624" x2="648" y2="706" style=" stroke: rgb(0, 0,0 );stroke-width: .5;"/>
+  <line x1="648" y1="717" x2="648" y2="726" style=" stroke: rgb(0, 0,0 );stroke-width: .5;"/>
+  <line x1="1067" y1="718" x2="1067" y2="726" style=" stroke: rgb(0, 0,0 );stroke-width: .5;"/>
+
+  <line x1="1389" y1="260" x2="1487" y2="260" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1293" y1="268" x2="1293" y2="341" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1336" y1="268" x2="1336" y2="341" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1261" y1="335" x2="1289" y2="268" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1313" y1="333" x2="1317" y2="333" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1479" y1="208" x2="1479" y2="197" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1247" y1="318" x2="1242" y2="316" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1242" y1="316" x2="1233" y2="316" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+
+  <line x1="1293" y1="333" x2="1313" y2="328" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1293" y1="333" x2="1313" y2="339" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1317" y1="339" x2="1317" y2="328" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1336" y1="333" x2="1317" y2="328" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1336" y1="333" x2="1317" y2="339" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1313" y1="339" x2="1313" y2="328" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1244" y1="324" x2="1249" y2="314" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1264" y1="328" x2="1249" y2="314" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1264" y1="328" x2="1244" y2="324" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1479" y1="231" x2="1472" y2="208" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1479" y1="231" x2="1485" y2="208" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1485" y1="208" x2="1472" y2="208" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1485" y1="283" x2="1479" y2="260" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1472" y1="283" x2="1479" y2="260" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1472" y1="283" x2="1485" y2="283" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1479" y1="283" x2="1479" y2="296" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="723" y1="780" x2="746" y2="786" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="746" y1="786" x2="746" y2="773" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="993" y1="780" x2="969" y2="786" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="993" y1="780" x2="969" y2="773" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="969" y1="773" x2="969" y2="786" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="723" y1="780" x2="746" y2="773" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="746" y1="780" x2="969" y2="780" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="723" y1="708" x2="723" y2="788" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="993" y1="708" x2="993" y2="788" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+
+
+  <line x1="1335" y1="697" x2="1329" y2="673" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1335" y1="697" x2="1342" y2="673" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1342" y1="673" x2="1329" y2="673" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1335" y1="485" x2="1342" y2="509" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1335" y1="485" x2="1329" y2="509" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1329" y1="509" x2="1342" y2="509" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+
+  <line x1="770" y1="262" x2="770" y2="275" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1335" y1="509" x2="1335" y2="535" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1335" y1="585" x2="1335" y2="673" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="705" y1="204" x2="705" y2="317" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="742" y1="215" x2="729" y2="215" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="729" y1="209" x2="729" y2="222" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="705" y1="216" x2="729" y2="222" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="705" y1="216" x2="729" y2="209" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="729" y1="209" x2="729" y2="222" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1010" y1="216" x2="986" y2="222" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1010" y1="216" x2="986" y2="209" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="986" y1="209" x2="986" y2="222" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="969" y1="255" x2="969" y2="381" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="746" y1="380" x2="746" y2="340" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+
+  <line x1="585" y1="697" x2="450" y2="697" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="687" y1="712" x2="450" y2="712" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="458" y1="673" x2="458" y2="648" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="458" y1="761" x2="458" y2="735" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="458" y1="761" x2="347" y2="761" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="648" y1="738" x2="648" y2="894" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="695" y1="720" x2="695" y2="841" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1020" y1="720" x2="1020" y2="841" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1067" y1="738" x2="1067" y2="894" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1130" y1="639" x2="1261" y2="639" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+
+  <line x1="695" y1="833" x2="719" y2="826" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="695" y1="833" x2="719" y2="839" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="719" y1="839" x2="719" y2="826" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="648" y1="886" x2="672" y2="879" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="648" y1="886" x2="672" y2="892" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="672" y1="892" x2="672" y2="879" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="593" y1="937" x2="617" y2="931" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="593" y1="938" x2="617" y2="945" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="617" y1="944" x2="617" y2="931" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1020" y1="833" x2="996" y2="839" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1020" y1="833" x2="996" y2="826" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="996" y1="826" x2="996" y2="839" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1067" y1="886" x2="1043" y2="892" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1067" y1="886" x2="1043" y2="879" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1043" y1="879" x2="1043" y2="892" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1122" y1="937" x2="1099" y2="944" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1122" y1="937" x2="1099" y2="931" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1099" y1="931" x2="1099" y2="944" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="458" y1="712" x2="465" y2="735" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="458" y1="712" x2="452" y2="735" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="452" y1="735" x2="465" y2="735" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="458" y1="697" x2="452" y2="673" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="458" y1="697" x2="465" y2="673" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="465" y1="673" x2="452" y2="673" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+
+
+  <line x1="719" y1="833" x2="996" y2="833" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="672" y1="886" x2="1043" y2="886" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="617" y1="937" x2="1099" y2="937" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="969" y1="269" x2="945" y2="275" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="969" y1="269" x2="945" y2="262" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="945" y1="262" x2="945" y2="275" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="746" y1="269" x2="770" y2="275" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="746" y1="269" x2="770" y2="262" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="770" y1="262" x2="770" y2="275" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="746" y1="317" x2="746" y2="256" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+
+  <line x1="742" y1="215" x2="986" y2="215" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="770" y1="269" x2="945" y2="269" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="767" y1="374" x2="767" y2="317" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="791" y1="327" x2="925" y2="327" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="791" y1="320" x2="791" y2="333" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="767" y1="327" x2="791" y2="320" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="767" y1="327" x2="791" y2="333" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1010" y1="204" x2="1010" y2="476" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="763" y1="327" x2="739" y2="320" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="763" y1="327" x2="739" y2="333" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="739" y1="327" x2="647" y2="327" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="739" y1="320" x2="739" y2="333" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1122" y1="717" x2="1122" y2="945" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="593" y1="721" x2="593" y2="945" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1130" y1="697" x2="1343" y2="697" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+
+  <line x1="1253" y1="639" x2="1246" y2="615" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1253" y1="639" x2="1259" y2="615" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1259" y1="615" x2="1246" y2="615" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1253" y1="697" x2="1246" y2="721" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1253" y1="697" x2="1259" y2="721" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1246" y1="721" x2="1259" y2="721" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1253" y1="594" x2="1253" y2="615" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1253" y1="721" x2="1253" y2="741" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+
+  <line x1="948" y1="317" x2="948" y2="393" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="767" y1="327" x2="791" y2="333" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="767" y1="327" x2="791" y2="320" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="948" y1="327" x2="925" y2="333" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="948" y1="327" x2="925" y2="320" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="925" y1="320" x2="925" y2="333" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+
+  <line x1="763" y1="475" x2="763" y2="317" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+
+
+  <line x1="1332" y1="231" x2="1487" y2="231" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+
+
+  <line x1="985" y1="485" x2="1423" y2="485" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1415" y1="712" x2="1409" y2="688" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1415" y1="712" x2="1422" y2="688" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1422" y1="688" x2="1409" y2="688" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1415" y1="485" x2="1422" y2="509" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1415" y1="485" x2="1409" y2="509" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1409" y1="509" x2="1422" y2="509" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1415" y1="509" x2="1415" y2="609" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1415" y1="659" x2="1415" y2="688" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+
+  <line x1="1030" y1="712" x2="1245" y2="712" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1262" y1="712" x2="1423" y2="712" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+
+  <line x1="1063" y1="487" x2="1068" y2="511" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1063" y1="487" x2="1055" y2="510" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1041" y1="552" x2="1048" y2="529" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1041" y1="552" x2="1059" y2="535" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1048" y1="529" x2="1059" y2="535" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1068" y1="511" x2="1055" y2="510" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1048" y1="557" x2="980" y2="506" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1061" y1="510" x2="1058" y2="521" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1058" y1="521" x2="1053" y2="532" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+
+  <line x1="645" y1="636" x2="625" y2="620" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="645" y1="636" x2="636" y2="613" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="636" y1="613" x2="625" y2="620" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="631" y1="616" x2="577" y2="540" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+
+  <line x1="705" y1="337" x2="705" y2="627" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1010" y1="498" x2="1010" y2="518" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+  <line x1="1010" y1="542" x2="1010" y2="627" style=" stroke: rgb(0, 0,0 );stroke-width: .9;"></line>
+</svg>
