@@ -10,18 +10,18 @@
   <meta name="author" content="">
 
   <!-- import jQuery library-->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="/static/js/jquery.min.js"></script>
 
   <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/svg-injector/1.1.3/svg-injector.min.js"></script> -->
 
   <title>YangBlog -- APPPipeData</title>
 
   <!-- Custom fonts for this template-->
-  <link href="{{ url_for('static', filename='vendor/fontawesome-free/css/all.min.css') }}" rel="stylesheet" type="text/css">
-  <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+  <link href="/static/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href="/static/css/font-face.css" rel="stylesheet">
 
   <!-- Custom styles for this template-->
-  <link href="{{ url_for('static', filename='css/sb-admin-2.min.css') }}" rel="stylesheet">
+  <link href="/static/css/sb-admin-2.min.css" rel="stylesheet">
   <link rel="shortcut icon" href="#">
 
   <!-- Favicon icon-->
@@ -169,7 +169,7 @@
 
                     <!-- Card Body -->
                     <div class="img-fluid">
-                      <object id="item-svg-chart" data="{{ url_for('static', filename='img/rf-weldneck-flange.svg') }}"></object>
+                      <object id="item-svg-chart" data="/static/img/rf-weldneck-flange.svg"></object>
                     </div>
                   </div>
                 </div>
@@ -217,11 +217,11 @@
   </a>
 
   <!-- My custom scripts -->
-  <script src="{{ url_for('static', filename='js/dependent-menu.js') }}"></script>
-  <script src="{{ url_for('static', filename='js/dependent-image.js') }}"></script>
-  <script src="{{ url_for('static', filename='js/drive-selected.js') }}"></script>
-  <script src="{{ url_for('static', filename='js/csv-reader.js') }}"></script>
-  <script src="{{ url_for('static', filename='js/jquery.csv.js') }}"></script>
+  <script src="/static/js/dependent-menu.js"></script>
+  <script src="/static/js/dependent-image.js"></script>
+  <script src="/static/js/drive-selected.js"></script>
+  <script src="/static/js/csv-reader.js"></script>
+  <script src="/static/js/jquery.csv.js"></script>
 </body>
 
 </html>
