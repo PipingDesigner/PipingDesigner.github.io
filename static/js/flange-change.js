@@ -31,7 +31,7 @@ function flange() {
   var card6thDiv = document.getElementById("card-6");
   var card6thSty = window.getComputedStyle(card6thDiv).display;
 
-  var preLink = "https://raw.githubusercontent.com/PipingDesigner/PipingDesigner.github.io/main/database/";
+  var preLink = "/database/";
   if (select3rd === "Slip-on Flange" || select3rd === "Blind Flange" || select3rd === "Threaded Flange" || select3rd === "Socket Welded Flange") {
     var postLink = select1st + "/" + select2nd + "/" + select3rd + "/flange" + select5th + select6th + ".csv"
     postLink = postLink.replace("#", "").replaceAll(" ", "-").toLowerCase();
